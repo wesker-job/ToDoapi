@@ -38,7 +38,7 @@ namespace TodoApi
             //     app.UseDeveloperExceptionPage();
             // }
 
-            app.UseMvc();
+            //app.UseMvc();
         }
     }
 }
